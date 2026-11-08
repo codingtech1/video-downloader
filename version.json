@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.8",
-  "latest_version_code": 19,
-  "apk_url": "https://github.com/codingtech1/video-downloader/releases/download/v2.8/VideoDownloader-debug.apk",
+  "latest_version": "2.9",
+  "latest_version_code": 20,
+  "apk_url": "https://github.com/codingtech1/video-downloader/releases/download/v2.9/VideoDownloader-debug.apk",
   "disabled": false,
   "message": ""
 }
